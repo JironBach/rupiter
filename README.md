@@ -1,4 +1,7 @@
-# README
+# rupiter
+数式をHTMLで表示するウェブアプリ。<br/>
+MathJaxを使用している。<br/>
+Jupyterライクなアプリを目指している。<br/>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
